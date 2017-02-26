@@ -9,8 +9,6 @@
 
 #import "Test.h"
 
-#import <UIKit/UIKit.h>
-
 @implementation Test
 + (void)flog
 {
